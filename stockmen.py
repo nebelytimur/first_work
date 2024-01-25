@@ -202,3 +202,4 @@ database = {
 controller = Controller()
 controller.auth_user()
 controller.get_stock_information()
+print("hello")
